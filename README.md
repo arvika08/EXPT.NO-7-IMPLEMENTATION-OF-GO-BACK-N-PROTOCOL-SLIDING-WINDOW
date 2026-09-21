@@ -52,7 +52,8 @@ Choose the file and verify the go back protocol operation.
 # OUTPUT
 
  
-<img width="459" height="365" alt="Screenshot 2026-03-19 at 5 31 45 PM" src="https://github.com/user-attachments/assets/2b68d160-4499-4381-a899-3b877639952b" />
+<img width="1600" height="979" alt="image" src="https://github.com/user-attachments/assets/c7934425-25ab-4e8c-844c-70604c5cb94c" />
+
 
 
 
